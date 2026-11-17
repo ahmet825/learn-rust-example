@@ -1,5 +1,3 @@
-
-
 use bevy::prelude::*;
 
 // 1. Küpü kamera ve ışıktan ayırmak için boş bir işaretçi (Marker) bileşeni
